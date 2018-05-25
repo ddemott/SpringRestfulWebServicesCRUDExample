@@ -1,4 +1,4 @@
-# SpringRestfulWebServicesCRUDExample
+# spring-restful-web-services-crud-example
 This project represents a base Spring 4 legacy project for Spring MVC / REST services.  The REST services are
 handled / tested by index.html.  This is done so you can see an example of how to call all of the CRUD 
 functions from a web page.  Most projects do not make the calls from a web page but from POSTMAN or even from a 
